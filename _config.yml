@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "仇炎的个人主页"
 title_separator          : "-"
-name                     : "71"
+name                     : "仇炎"
 description              : "NJU 大数据传播实验班 广泛学习中"
 url                      : https://chouyan409-cmd.github.io/chouyan409.github.io/# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "仇炎"
-  avatar           : "profile.png"
+  avatar           :"https://github.com/chouyan409-cmd.png"
   bio              : "大数据传播实验班，喜欢数据分析，可视化，计算中心？"
   location         : "南京大学"
   employer         :
