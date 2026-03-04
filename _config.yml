@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "71的个人主页"
+title                    : "仇炎的个人主页"
 title_separator          : "-"
 name                     : "71"
 description              : "NJU 大数据传播实验班 广泛学习中"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "chouyan409"
+  name             : "仇炎"
   avatar           : "profile.png"
-  bio              : "大数据传播实验班，喜欢数据分析，可视化"
+  bio              : "大数据传播实验班，喜欢数据分析，可视化，计算中心？"
   location         : "南京大学"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
